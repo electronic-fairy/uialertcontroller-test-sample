@@ -1,0 +1,5 @@
+# uialertcontroller-test-sample
+
+UIAlertControllerの自己学習用サンプルです。
+
+簡単なものですが、ボタンを２つ配置してUIAlertControllerのAlertとActionSheetの２つのパターンを作成しています。
